@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://nest-users-7qh9.onrender.com';
 const myHeaders = new Headers();
 myHeaders.append("Content-Type", "application/json");
 
